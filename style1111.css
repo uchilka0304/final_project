@@ -1,0 +1,30 @@
+.header
+{
+background:MediumSpringGreen;
+height:370px;
+text-align:center;
+font-family:Bradley Hand;
+}
+.content
+{
+background:MediumAquamarine;
+	height:650px;
+}
+.content1
+{
+background:YellowGreen;
+	height:650px;
+}
+.displayed {
+    display: block;
+    margin-left:auto;
+    margin-right:auto; }
+.footer
+{
+  
+    background:OliveDrab;
+	height:80px;
+    text-align:center;
+    word – spacing:50px;
+		 
+}
